@@ -37,5 +37,5 @@ Discord: [Click Me To Join Our Server](https://discord.gg/aQjvdmHFFy)
 ## Support
 If you encounter any issues, please open an issue on this GitHub repository.
  
-<imgwidth="1536" height="1024" alt="GIVEALLITEMS" src="https://github.com/user-attachments/assets/275981db-4b60-48ed-a416-0453d49d015b" />
+<imgwidth="1536" height="1024" alt="GIVEALLITEMS" src="https://github.com/user-attachments/assets/275981db-4b60-48ed-a416-0453d49d015b"/>
 
