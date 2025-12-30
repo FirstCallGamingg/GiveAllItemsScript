@@ -8,7 +8,7 @@ A lightweight QBCore script that allows administrators to give a selected item t
 - DO NOT rename or change any file or folder names  
   Renaming `fcg-giveallitems` or any files will cause the script to break
 
-## Requirements<img width="1536" height="1024" alt="GIVEALLITEMS" src="https://github.com/user-attachments/assets/275981db-4b60-48ed-a416-0453d49d015b" />
+## Requirements
 
 - QBCore
 - ox_inventory  
@@ -37,5 +37,5 @@ Discord: [Click Me To Join Our Server](https://discord.gg/aQjvdmHFFy)
 ## Support
 If you encounter any issues, please open an issue on this GitHub repository.
  
-
+<imgwidth="1536" height="1024" alt="GIVEALLITEMS" src="https://github.com/user-attachments/assets/275981db-4b60-48ed-a416-0453d49d015b" />
 
